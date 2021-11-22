@@ -4,7 +4,9 @@ Way to use multiple database in Single Spring Boot Application
 
 # First Darabase
 MySQL 8 Database
+
 Name : Sales
+
 Command : create database sales
 
 # CREATE TABLE
