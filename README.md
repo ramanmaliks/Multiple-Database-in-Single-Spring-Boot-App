@@ -1,15 +1,15 @@
 # Multiple-Database-in-Single-Spring-Boot-App
 Way to use multiple database in Single Spring Boot Application
-# Multiple Database
+## Multiple Database
 
-# First Darabase
+### First Darabase
 MySQL 8 Database
 
 Name : Sales
 
 Command : create database sales
 
-# CREATE TABLE
+### CREATE TABLE
 ``` 
 CREATE TABLE `usertest` (
   `id` int NOT NULL AUTO_INCREMENT,
